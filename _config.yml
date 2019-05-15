@@ -1,0 +1,6 @@
+theme: jekyll-theme-architect
+
+title: "MUN Software Carpentry HUB"
+description: "Software- and Data-Carpentry Workshops at Memorial University of Newfoundland"
+
+repository: 'mun-swc-hub/mun-swc-hub.github.io'
