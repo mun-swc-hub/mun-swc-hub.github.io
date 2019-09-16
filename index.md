@@ -39,7 +39,14 @@ have been confirmed.
 # Members
 ## Badged Instructors
 
+* Ivo Arrey - Carpentries Instructor since 2016
+* Elnaz Bodaghkhani - Carpentries Instructor since 2017
+* Muriel Dunn - Carpentries Instructor since 2019
+* Emilie Geissinger - Carpentries Instructor since 2018
+* Evan Kielley - Carpentries Instructor since 2018
 * Oliver Stueker - Carpentries Instructor since 2016
+* Joany Mariño - Carpentries Instructor since 2019
+* Danielle Quinn - Carpentries Instructor and Instructor Trainer since 2017
 * _more to be added_
 
 ### Alumni
