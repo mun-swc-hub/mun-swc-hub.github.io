@@ -10,6 +10,7 @@
     <link href="{{  '/assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet" type="text/css">
 {% endcomment %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/morestyle.css' | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
     <!--[if lt IE 9]>
@@ -68,10 +69,12 @@
         </section>
 
         <aside id="sidebar">
-          <div class="logos">
-            <a href="https://www.ace-net.ca/" target="_blank"><img src="{{ '/' | absolute_url }}assets/images/acenet_logo.svg" title="ACENET"></a><br />
-            <a href="https://www.mun.ca/" target="_blank"><img src="{{ '/' | absolute_url }}assets/images/mun_logo.svg" title="Memorial University of Newfoundland"></a><br />
-            <a href="https://software-carpentry.org/" target="_blank"><img src="{{ '/' | absolute_url }}assets/images/swc_logo-blue.svg" title="Software Carpentry"></a><br />
+          <div class="logos,center">
+            <a href="https://www.mun.ca/" target="_blank"><img src="{{ '/' | absolute_url }}assets/images/mun_logo.svg" title="Memorial University of Newfoundland" class="center" width="200px"></a><br />
+            <a href="https://carpentries.org/" target="_blank"><img src="{{ '/' | absolute_url }}assets/images/carpentries-hex-white.svg" title="The Carpentries"  class="center" width="125px"></a><br />
+            <a href="https://software-carpentry.org/" target="_blank"><img src="{{ '/' | absolute_url }}assets/images/swc_logo-blue.svg" title="Software Carpentry" class="center" width="200px"></a><br />
+            <a href="https://datacarpentry.org/" target="_blank"><img src="{{ '/' | absolute_url }}assets/images/DC1_logo.svg" title="Data Carpentry" class="center" width="160px"></a><br />
+            <a href="https://www.ace-net.ca/" target="_blank"><img src="{{ '/' | absolute_url }}assets/images/acenet_logo.svg" title="ACENET" class="center" width="225px"></a><br />
           </div>
 {% comment %}
           {% if site.github.is_project_page %}
