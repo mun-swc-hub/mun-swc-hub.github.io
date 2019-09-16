@@ -4,7 +4,8 @@ title: "Carpentries Workshops@MUN"
 ---
 
 # Who We Are
-We are a team of Software-Carpentry Instructors and Helpers at Memorial University of Newfoundland (MUN) who are organizing and offering Software-Carpentry and in the future Data-Carpentry, Library-Carpentry and HPC-Carpentry workshops at MUN.
+We are a team of _Carpentries_ Instructors and Helpers at Memorial University of Newfoundland (MUN) who are organizing and offering _Carpentries_ workshops at MUN.
+
 
 ![infographic](/figs/infographic-sc.jpg)
 
