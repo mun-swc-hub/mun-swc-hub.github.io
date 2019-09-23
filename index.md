@@ -45,16 +45,23 @@ have been confirmed.
 * Muriel Dunn - Carpentries Instructor since 2019
 * Emilie Geissinger - Carpentries Instructor since 2018
 * Evan Kielley - Carpentries Instructor since 2018
+* Elena Salogni - Carpentries Instructor since 2019
 * Oliver Stueker - Carpentries Instructor since 2016
 * Joany Mariño - Carpentries Instructor since 2019
 * Danielle Quinn - Carpentries Instructor and Instructor Trainer since 2017
 * _more to be added_
 
+<!--
 ### Alumni
 * _to be added_
+-->
 
 ## Helpers
 * _to be added_
+
+<!--
+## Contact Us
+-->
 
 # Partners
 
