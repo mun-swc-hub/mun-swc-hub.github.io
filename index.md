@@ -43,6 +43,7 @@ have been confirmed.
 * Andrés Beita-Jiménez - Carpentries Instructor since 2019
 * Elnaz Bodaghkhani - Carpentries Instructor since 2017
 * Muriel Dunn - Carpentries Instructor since 2019
+* Grace Fishbein - Carpentries Instructor since 2020
 * Emilie Geissinger - Carpentries Instructor since 2018
 * Evan Kielley - Carpentries Instructor since 2018
 * Elena Salogni - Carpentries Instructor since 2019
