@@ -24,6 +24,7 @@ We are dedicated to the [Carpentries Code of Conduct](https://docs.carpentries.o
 # Workshops
 ## Upcoming Workshops
 
+Workshop series supported by [MUN's Graduate Students' Union](https://www.gsumun.ca/):
 * [March 3-24, 2019 (four Tuesday afternoons)](https://mun-swc-hub.github.io/2020-30-30-mun/): Unix Shell, Python & Version Control
 * March/April (four Tuesday afternoons, details TBD): Unix Shell, R & Version Control (tentatively)
 * Date TBD: Unix Shell, MATLAB & Version Control (tentatively)
