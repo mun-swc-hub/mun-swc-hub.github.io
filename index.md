@@ -2,10 +2,10 @@
 layout: "default"
 title: "Carpentries Workshops@MUN"
 ---
+[<small>Jump to</small> Upcoming Workshops](#upcoming-workshops)
 
 # Who We Are
 We are a team of _Carpentries_ Instructors and Helpers at Memorial University of Newfoundland (MUN) who are organizing and offering _Carpentries_ workshops at MUN.
-
 
 ![infographic](/figs/infographic-sc.jpg)
 
