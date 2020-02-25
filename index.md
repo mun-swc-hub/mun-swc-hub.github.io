@@ -55,6 +55,7 @@ have been confirmed.
 * Grace Fishbein - Carpentries Instructor since 2020
 * Emilie Geissinger - Carpentries Instructor since 2018
 * Evan Kielley - Carpentries Instructor since 2018
+* Andrea Perreault - Carpentries Instructor since 2019
 * Elena Salogni - Carpentries Instructor since 2019
 * Oliver Stueker - Carpentries Instructor since 2016
 * Joany Mariño - Carpentries Instructor since 2019
