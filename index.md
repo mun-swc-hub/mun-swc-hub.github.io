@@ -24,19 +24,13 @@ We are dedicated to the [Carpentries Code of Conduct](https://docs.carpentries.o
 # Workshops
 ## Upcoming Workshops
 
-This series of 6 workshops is supported by [Graduate Students' Union at MUN](https://www.gsumun.ca/):
-* [March 3,10,17,24 2019 (four Tuesday afternoons)](https://mun-swc-hub.github.io/2020-03-03-mun/): Unix Shell, Version Control & Python
-* ONLINE: [March 31, April 7,14,21 (four Tuesday afternoons)](https://mun-swc-hub.github.io/2020-03-31-mun/): Unix Shell, Version Control & R
-* Date TBD: Unix Shell, Version Control & MATLAB (tentatively)
-* Date TBD: Data Carpentry (tentatively)
-* Date and curriculum: TBD
-* Date and curriculum: TBD
-
 We will announce future workshops here once their dates and locations
 have been confirmed.
 
 ## Past Workshops
 
+* ONLINE: [March 31, April 7,14,21 (four Tuesday afternoons)](https://mun-swc-hub.github.io/2020-03-31-mun/): Unix Shell, Version Control & R
+* [March 3,10,17,24 2020 (four Tuesday afternoons)](https://mun-swc-hub.github.io/2020-03-03-mun/): Unix Shell, Version Control & Python (supported by [Graduate Students' Union at MUN](https://www.gsumun.ca/))
 * [May 9-10 2019](https://mun-swc-hub.github.io/2019-05-09-mun/) Unix Shell, R & Version Control
 * [April 22-23 2019](https://mun-swc-hub.github.io/2019-04-22-mun/) Unix Shell, Python & Version Control
 * [March 30-31 2019](https://daniellequinn.github.io/2019-03-30-WISE1/) MUN Women in Science and Engineering Graduate Student Society (Technical Stream)
